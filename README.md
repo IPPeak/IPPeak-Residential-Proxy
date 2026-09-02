@@ -39,5 +39,3 @@ The Python examples include:
 ### Node.js
 
 - `proxy_demo.js`
-
-## Repository Structure
