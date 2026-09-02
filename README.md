@@ -41,15 +41,3 @@ The Python examples include:
 - `proxy_demo.js`
 
 ## Repository Structure
-
-```text
-.
-├── index.html
-├── _sidebar.md
-├── README.md
-├── LICENSE
-├── docs/
-└── examples/
-    ├── python/
-    ├── go/
-    └── nodejs/
