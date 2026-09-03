@@ -1,0 +1,10 @@
+title: Technical Documentation
+description: Technical documentation, API references, and proxy examples.
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
