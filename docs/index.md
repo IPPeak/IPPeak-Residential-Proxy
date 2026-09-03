@@ -1,4 +1,9 @@
-# Documentation
+---
+layout: default
+title: Documentation
+---
+
+# Technical Documentation
 
 Welcome to our technical documentation.
 
@@ -10,6 +15,21 @@ Learn how to get started with our proxy services.
 
 Learn about different proxy types and their use cases.
 
+## API Reference
+
+Explore API documentation, authentication, endpoints, and request examples.
+
 ## Examples
 
-Explore examples for Python, Go, and Node.js.
+Explore working examples for:
+
+- Python
+- Go
+- Node.js
+
+## Resources
+
+- API Documentation
+- Proxy Configuration
+- Code Examples
+- Troubleshooting
