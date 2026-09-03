@@ -1,87 +1,232 @@
 ---
 layout: default
 title: Getting Started
-permalink: /getting-started/
 ---
 
 # Getting Started
 
-This guide explains how to get started with the proxy service.
 
-## 1. Choose a Proxy Type
+This guide explains how to connect to IPPeak proxy services and make your first successful proxy request.
 
-Select a proxy type based on your use case.
 
-### Residential Proxies
+IPPeak provides residential proxy solutions with global IP coverage, multiple proxy protocols, and flexible integration options.
 
-Residential proxies use IP addresses associated with real residential networks.
 
-They are suitable for applications that require a residential IP environment and flexible IP rotation.
+---
 
-### Static Residential Proxies
+# Before You Start
 
-Static residential proxies provide a persistent IP address for scenarios that require a stable connection.
 
-### Unlimited Residential Proxies
+Before connecting to IPPeak proxies, make sure you have:
 
-Unlimited residential proxies are designed for workloads that require high-volume traffic without traditional traffic-based limits.
 
-## 2. Get Your Proxy Credentials
-
-After selecting a proxy product, obtain the required connection information:
-
+- An active IPPeak account
+- Proxy username
+- Proxy password
 - Proxy host
 - Proxy port
-- Username
-- Password
 
-Keep your credentials secure and do not publish them in public repositories.
 
-## 3. Configure Your Connection
+These credentials are required for proxy authentication.
 
-A typical HTTP proxy configuration looks like:
 
-```text
+
+---
+
+# Step 1: Get Proxy Credentials
+
+
+After purchasing or activating a proxy service, you will receive connection information.
+
+
+A typical proxy configuration includes:
+
+
+```
+Host:
+Port:
+Username:
+Password:
+```
+
+
+Example:
+
+
+```
 Host: proxy.example.com
-Port: 10000
+
+Port: 8080
+
 Username: your_username
+
 Password: your_password
 ```
 
-Replace the example values with your actual proxy credentials.
 
-## 4. Test Your Connection
 
-Example command:
+---
+
+# Step 2: Proxy Connection Format
+
+
+IPPeak supports standard proxy authentication formats.
+
+
+## HTTP Proxy
+
+
+Format:
+
+
+```
+http://username:password@host:port
+```
+
+
+Example:
+
+
+```
+http://user123:pass123@proxy.example.com:8080
+```
+
+
+
+## SOCKS5 Proxy
+
+
+Format:
+
+
+```
+socks5://username:password@host:port
+```
+
+
+Example:
+
+
+```
+socks5://user123:pass123@proxy.example.com:1080
+```
+
+
+
+---
+
+# Step 3: Send Your First Request
+
+
+## Python Example
+
+
+Install requests:
+
 
 ```bash
-curl -x http://username:password@proxy.example.com:10000 https://example.com
+pip install requests
 ```
 
-If the request succeeds, the proxy connection is working correctly.
 
-## 5. Session Strategy
+Example:
 
-### Rotating Session
 
-The proxy IP changes automatically according to the rotation settings.
+```python
+import requests
 
-Recommended for applications requiring multiple IP addresses.
 
-### Sticky Session
+proxy = {
+    "http": "http://username:password@host:port",
+    "https": "http://username:password@host:port"
+}
 
-The same IP address is maintained during a session period.
 
-Recommended for applications requiring connection stability.
+response = requests.get(
+    "https://ipinfo.io",
+    proxies=proxy,
+    timeout=30
+)
 
-## Next Steps
 
-Continue reading:
-
-```text
--[Proxy Types]({{ '/proxy-types/' | relative_url }})
--[API Reference]({{ '/api/' | relative_url }})
--[Python Examples]({{ '/examples/python/' | relative_url }})
--[Go Examples]({{ '/examples/go/' | relative_url }})
--[Node.js Examples]({{ '/examples/nodejs/' | relative_url }})
+print(response.text)
 ```
+
+
+
+---
+
+# Step 4: Verify Your Connection
+
+
+After sending a request, you can verify your proxy connection by checking:
+
+
+- IP address
+- Country location
+- Network information
+
+
+Example verification service:
+
+
+```
+https://ipinfo.io
+```
+
+
+
+A successful response should display the proxy IP information instead of your original network IP.
+
+
+
+---
+
+# Supported Proxy Protocols
+
+
+IPPeak supports:
+
+
+| Protocol | Supported |
+|---|---|
+| HTTP | Yes |
+| HTTPS | Yes |
+| SOCKS5 | Yes |
+
+
+
+---
+
+# Connection Tips
+
+
+## Use Session Control
+
+
+For applications requiring consistent IP addresses, use sticky sessions.
+
+
+## Manage Request Frequency
+
+
+Avoid sending excessive requests from a single IP address.
+
+
+## Select The Right Proxy Type
+
+
+Choose the proxy solution based on your application requirements.
+
+
+---
+
+# Next Steps
+
+
+Continue exploring IPPeak documentation:
+
+
+- [Proxy Types](proxy-types.md)
+- [API Reference](api.md)
+- [Code Examples](examples.md)
