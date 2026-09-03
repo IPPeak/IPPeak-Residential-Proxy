@@ -143,9 +143,27 @@ Check:
 - Proxy availability
 - Request timeout settings
 
-## Related Documentation
+# More Examples
 
-- Python Examples
-- Go Examples
-- Getting Started
-- API Reference
+
+Explore examples in other programming languages:
+
+
+- [Python Examples](python.md)
+
+- [Go Examples](go.md)
+
+- [Node.js Examples](nodejs.md)
+
+
+
+---
+
+# Related Documentation
+
+
+- [Getting Started](../getting-started.md)
+
+- [Proxy Types](../proxy-types.md)
+
+- [API Reference](../api.md)
