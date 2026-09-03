@@ -1,10 +1,19 @@
-title: Technical Documentation
-description: Technical documentation, API references, and proxy examples.
-theme: jekyll-theme-minimal
+title: IPPeak Developer Documentation
+
+description: Official documentation for IPPeak residential proxy services, API integration, and developer resources.
+
+url: "https://IPPeak.github.io"
+
+baseurl: "/IPPeak-Residential-Proxy"
 
 markdown: kramdown
 
-permalink: pretty
+theme: null
+
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+exclude:
+  - examples
