@@ -188,11 +188,27 @@ python rotating_proxy.py
 
 ---
 
+# More Examples
+
+
+Explore examples in other programming languages:
+
+
+- [Python Examples](python.md)
+
+- [Go Examples](go.md)
+
+- [Node.js Examples](nodejs.md)
+
+
+
+---
+
 # Related Documentation
 
 
 - [Getting Started](../getting-started.md)
 
-- [API Reference](../api.md)
-
 - [Proxy Types](../proxy-types.md)
+
+- [API Reference](../api.md)
