@@ -1,0 +1,58 @@
+site_name: IPPeak Residential Proxy
+site_url: https://ippeak.github.io/IPPeak-Residential-Proxy/
+site_description: IPPeak residential proxy documentation, proxy types, API guides, and code examples.
+site_author: IPPeak
+
+repo_name: ippeak/IPPeak-Residential-Proxy
+repo_url: https://github.com/ippeak/IPPeak-Residential-Proxy
+
+theme:
+  name: material
+  language: en
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+nav:
+  - Home: index.md
+
+  - Getting Started:
+      - Quick Start: getting-started.md
+
+  - Proxy Types:
+      - Residential Proxy: proxy-types/residential.md
+      - Static Residential Proxy: proxy-types/static.md
+      - SOCKS5 Proxy: proxy-types/socks5.md
+
+  - API:
+      - API Overview: api/index.md
+
+  - Examples:
+      - Python: examples/python.md
+      - Go: examples/go.md
+      - Node.js: examples/nodejs.md
