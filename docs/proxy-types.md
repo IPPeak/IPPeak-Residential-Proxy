@@ -1,70 +1,236 @@
 ---
 layout: default
 title: Proxy Types
-permalink: /proxy-types/
 ---
 
 # Proxy Types
 
-Different proxy types are designed for different connection requirements.
 
-## Residential Proxies
+IPPeak provides multiple proxy solutions designed for different application requirements.
 
-Residential proxies provide IP addresses associated with residential networks.
 
-They are commonly used when an application needs a residential IP environment with flexible IP rotation.
+Each proxy type offers different connection methods, IP management options, and usage scenarios.
 
-### Key Characteristics
 
-- Residential IP addresses
-- Rotating IP options
-- Flexible session management
-- Geographic targeting
+
+---
+
+# Residential Proxy
+
+
+Residential Proxy provides access to real residential IP addresses from global networks.
+
+
+It is designed for applications that require authentic IP environments and flexible IP rotation.
+
+
+
+## Key Features
+
+
+- 80M+ residential IP resources
+- Global location coverage
+- HTTP and SOCKS5 support
+- Rotating IP sessions
+- Flexible targeting options
+
+
+
+## How It Works
+
+
+Residential proxies route your requests through real residential devices and networks.
+
+
+When a request is sent through IPPeak:
+
+```
+Application
+
+↓
+
+IPPeak Proxy Network
+
+↓
+
+Residential IP
+
+↓
+
+Target Website
+```
+
+
+
+## Recommended Use Cases
+
+
+Residential Proxy is suitable for:
+
+
+### Data Collection
+
+
+Collect public information using reliable residential connections.
+
+
+
+### Market Research
+
+
+Analyze regional markets with location-based access.
+
+
+
+### Automation
+
+
+Build scalable workflows requiring multiple IP addresses.
+
+
+
+---
+
+# Static Residential Proxy
+
+
+Static Residential Proxy provides dedicated residential IP resources with long-term stability.
+
+
+Unlike rotating proxies, static residential proxies maintain the same IP address during usage.
+
+
+
+## Key Features
+
+
+- Dedicated residential IP
+- Stable long-term connection
+- Consistent IP identity
 - HTTP and SOCKS5 support
 
-## Static Residential Proxies
 
-Static residential proxies provide a dedicated residential IP that remains stable for the configured period.
 
-They are useful when maintaining a consistent IP is more important than frequent rotation.
+## Benefits
 
-### Key Characteristics
 
-- Stable IP address
-- Dedicated IP resources
-- Suitable for long-running sessions
-- Useful for applications requiring IP consistency
+Static residential proxies are ideal when applications require:
 
-## Unlimited Residential Proxies
+- Stable sessions
+- Persistent connections
+- Fixed IP access
 
-Unlimited residential proxies are designed for high-volume workloads.
 
-They are suitable for applications where traffic volume is a primary consideration.
 
-### Key Characteristics
+## Recommended Use Cases
+
+
+Common applications include:
+
+
+### Account Management
+
+
+Maintain consistent IP environments for authorized accounts.
+
+
+
+### Long-Term Applications
+
+
+Support services requiring continuous connections.
+
+
+
+### Business Operations
+
+
+Provide stable network access for enterprise workflows.
+
+
+
+---
+
+# Unlimited Residential Proxy
+
+
+Unlimited Residential Proxy provides high-volume residential proxy access without traffic limitations.
+
+
+
+## Key Features
+
 
 - Unlimited traffic usage
-- Residential IP resources
-- Suitable for high-volume workloads
-- Flexible connection requirements
+- Scalable connections
+- Residential IP access
+- Flexible usage scenarios
 
-## Rotating vs. Sticky Sessions
 
-A rotating session changes the proxy IP according to the configured rotation policy.
 
-A sticky session keeps the same proxy IP for a specified session period.
+## Benefits
 
-Choose rotating sessions when IP diversity is important.
 
-Choose sticky sessions when connection consistency is more important.
+Designed for projects requiring:
 
-## How to Choose
+- Large request volumes
+- Continuous data access
+- Enterprise-scale operations
 
-Consider the following factors:
 
-1. Whether the IP needs to remain stable
-2. Expected traffic volume
-3. Geographic requirements
-4. Required protocol
-5. Session duration
-6. Application compatibility
+
+## Recommended Use Cases
+
+
+Suitable for:
+
+
+### Large-Scale Applications
+
+
+Support high-volume proxy requests.
+
+
+
+### Data Processing
+
+
+Handle continuous network operations.
+
+
+
+### Enterprise Projects
+
+
+Provide scalable proxy infrastructure.
+
+
+
+---
+
+# Choosing The Right Proxy
+
+
+Choose the appropriate proxy type based on your requirements.
+
+
+| Requirement | Recommended Solution |
+|---|---|
+| Need rotating IPs | Residential Proxy |
+| Need stable IP address | Static Residential Proxy |
+| Need unlimited traffic | Unlimited Residential Proxy |
+| Need large-scale access | Residential Proxy |
+
+
+
+---
+
+# Next Steps
+
+
+Continue exploring:
+
+
+- [Getting Started](getting-started.md)
+- [API Reference](api.md)
+- [Code Examples](examples.md)
