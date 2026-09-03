@@ -46,3 +46,42 @@ Host: proxy.example.com
 Port: 10000
 Username: your_username
 Password: your_password
+```
+
+Replace the example values with your actual proxy credentials.
+
+## 4. Test Your Connection
+
+Example command:
+
+```bash
+curl -x http://username:password@proxy.example.com:10000 https://example.com
+```
+
+If the request succeeds, the proxy connection is working correctly.
+
+## 5. Session Strategy
+
+### Rotating Session
+
+The proxy IP changes automatically according to the rotation settings.
+
+Recommended for applications requiring multiple IP addresses.
+
+### Sticky Session
+
+The same IP address is maintained during a session period.
+
+Recommended for applications requiring connection stability.
+
+## Next Steps
+
+Continue reading:
+
+```text
+-[Proxy Types]({{ '/proxy-types/' | relative_url }})
+-[API Reference]({{ '/api/' | relative_url }})
+-[Python Examples]({{ '/examples/python/' | relative_url }})
+-[Go Examples]({{ '/examples/go/' | relative_url }})
+-[Node.js Examples]({{ '/examples/nodejs/' | relative_url }})
+```
