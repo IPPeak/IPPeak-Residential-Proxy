@@ -104,18 +104,39 @@ Learn about API authentication, endpoints, and integration methods.
 ## Code Examples
 
 
-Explore ready-to-use examples in popular programming languages.
+IPPeak provides ready-to-use examples for developers using different programming languages.
 
 
-Supported languages:
-
-- Python
-- Go
-- Node.js
+Choose an example based on your development environment:
 
 
-[View Code Examples →](examples/python.md)
+### Python
 
+
+Integrate IPPeak proxies with Python applications.
+
+
+[View Python Examples →](examples/python.md)
+
+
+
+### Go
+
+
+Learn how to configure proxy connections using Go's HTTP client.
+
+
+[View Go Examples →](examples/go.md)
+
+
+
+### Node.js
+
+
+Use JavaScript and Node.js applications with IPPeak proxy services.
+
+
+[View Node.js Examples →](examples/nodejs.md)
 
 
 ---
