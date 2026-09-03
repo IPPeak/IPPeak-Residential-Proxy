@@ -114,7 +114,7 @@ Supported languages:
 - Node.js
 
 
-[View Code Examples →](examples.md)
+[View Code Examples →](examples/python.md)
 
 
 
