@@ -229,4 +229,4 @@ Continue exploring IPPeak documentation:
 
 - [Proxy Types](proxy-types.md)
 - [API Reference](api.md)
-- [Code Examples](examples.md)
+- [Code Examples](examples/python.html)
