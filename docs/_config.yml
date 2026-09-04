@@ -13,7 +13,3 @@ theme: null
 
 plugins:
   - jekyll-sitemap
-
-
-exclude:
-  - examples
