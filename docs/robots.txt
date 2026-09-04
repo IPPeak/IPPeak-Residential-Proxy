@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ippeak.github.io/IPPeak-Residential-Proxy/sitemap.xml
