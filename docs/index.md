@@ -139,6 +139,15 @@ Use JavaScript and Node.js applications with IPPeak proxy services.
 [View Node.js Examples →](examples/nodejs.html)
 
 
+## Blog
+
+
+Explore IPPeak technical articles, proxy guides, and industry insights.
+
+
+[Visit Blog →](blog/)
+
+
 ---
 
 
