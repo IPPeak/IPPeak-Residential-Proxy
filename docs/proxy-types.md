@@ -233,4 +233,4 @@ Continue exploring:
 
 - [Getting Started](getting-started.md)
 - [API Reference](api.md)
-- [Code Examples](examples.md)
+- [Code Examples](examples/python.html)
