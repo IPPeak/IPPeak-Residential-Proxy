@@ -194,11 +194,11 @@ python rotating_proxy.py
 Explore examples in other programming languages:
 
 
-- [Python Examples](python.md)
+- [Python Examples](python/)
 
-- [Go Examples](go.md)
+- [Go Examples](go/)
 
-- [Node.js Examples](nodejs.md)
+- [Node.js Examples](nodejs/)
 
 
 
