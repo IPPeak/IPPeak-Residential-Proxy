@@ -12,9 +12,7 @@ Explore technical articles, proxy guides, development tutorials, and industry in
 
 ## Latest Articles
 
-No articles published yet.
-
-New technical content will be added soon.
+- [What Is a Residential Proxy? Benefits, Use Cases, and Selection Guide](What-Is-a-Residential-Proxy.html)
 
 ---
 
