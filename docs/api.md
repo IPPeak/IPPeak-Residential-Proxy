@@ -332,4 +332,4 @@ Continue learning:
 
 - [Getting Started](getting-started.md)
 - [Proxy Types](proxy-types.md)
-- [Code Examples](examples.md)
+- [Code Examples](examples/python.html)
