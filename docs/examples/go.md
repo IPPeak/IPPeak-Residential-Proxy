@@ -148,8 +148,8 @@ Explore examples in other programming languages:
 # Related Documentation
 
 
-- [Getting Started](../getting-started.md)
+- [Getting Started](../getting-started/)
 
-- [Proxy Types](../proxy-types.md)
+- [Proxy Types](../proxy-types/)
 
-- [API Reference](../api.md)
+- [API Reference](../api/)
