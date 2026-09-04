@@ -116,7 +116,7 @@ Choose an example based on your development environment:
 Integrate IPPeak proxies with Python applications.
 
 
-[View Python Examples →](examples/python.md)
+[View Python Examples →](examples/python/)
 
 
 
@@ -126,7 +126,7 @@ Integrate IPPeak proxies with Python applications.
 Learn how to configure proxy connections using Go's HTTP client.
 
 
-[View Go Examples →](examples/go.md)
+[View Go Examples →](examples/go/)
 
 
 
@@ -136,7 +136,7 @@ Learn how to configure proxy connections using Go's HTTP client.
 Use JavaScript and Node.js applications with IPPeak proxy services.
 
 
-[View Node.js Examples →](examples/nodejs.md)
+[View Node.js Examples →](examples/nodejs/)
 
 
 ---
