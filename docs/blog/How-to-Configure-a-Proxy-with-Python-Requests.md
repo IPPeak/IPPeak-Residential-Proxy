@@ -1,3 +1,8 @@
+---
+layout: default
+title: "How to Configure a Proxy with Python Requests? A Complete Guide"
+description: "Learn how to configure HTTP, HTTPS, and SOCKS5 proxies with Python Requests, including authentication, Sessions, rotating residential proxies, and common proxy issues."
+---
 
 # How to Configure a Proxy with Python Requests? A Complete Guide
 
