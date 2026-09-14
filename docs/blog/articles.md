@@ -57,4 +57,4 @@ Published: September 11, 2026
 
 Published: September 14, 2026
 
-[Read More →](What-Is-ASN.md.html)
+[Read More →](What-Is-ASN.html)
