@@ -8,7 +8,7 @@ description: "Learn the differences between Dedicated IP and Shared IP, includin
 
 In proxy services and network applications, Dedicated IP and Shared IP are two common types of IP resources. Both can be used for network connections, but their allocation methods are different, which affects IP persistence, access management, and suitable use cases.
 
-![1](https://i.postimg.cc/XvNxZw1F/Dedicated-IP-vs-Shared-IP.png）
+![Dedicated IP vs Shared IP](https://i.postimg.cc/XvNxZw1F/Dedicated-IP-vs-Shared-IP.png)  
 
 ## What Is a Dedicated IP?
 
