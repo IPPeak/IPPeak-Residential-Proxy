@@ -6,7 +6,7 @@ description: "Learn the differences between Dedicated IP and Shared IP, includin
 
 # Dedicated IP vs Shared IP: What Is the Difference?
 
-In proxy services and network applications, Dedicated IP and Shared IP are two common types of IP resources. Both can be used for network connections, but their allocation methods are different, which affects IP persistence, access management, and suitable use cases.
+In proxy services and network applications, [Dedicated IP](https://www.ippeak.com/product/isp-proxies) and Shared IP are two common types of IP resources. Both can be used for network connections, but their allocation methods are different, which affects IP persistence, access management, and suitable use cases.
 
 ![Dedicated IP vs Shared IP](https://i.postimg.cc/XvNxZw1F/Dedicated-IP-vs-Shared-IP.png)  
 
@@ -76,7 +76,7 @@ The answers can help determine which type of IP resource better fits your applic
 
 ## IPPeak Static Residential Proxies
 
-IPPeak provides Static Residential Proxies with dedicated native residential IP resources for applications that require a specific residential IP. The service supports self-selected subnets, unlimited traffic, and IP retention for up to 90 days, covering 30+ regions. Pricing starts at $0.12/IP/day, making it suitable for applications that need consistent access to specific residential IP resources.
+[IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) provides Static Residential Proxies with dedicated native residential IP resources for applications that require a specific residential IP. The service supports self-selected subnets, unlimited traffic, and IP retention for up to 90 days, covering 30+ regions. Pricing starts at $0.12/IP/day, making it suitable for applications that need consistent access to specific residential IP resources.
 
 ## Conclusion
 
