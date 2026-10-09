@@ -12,8 +12,6 @@ This doesn't always mean there's a problem with the proxy IP itself. DNS resolut
 
 So, what is DNS, how does it affect proxy connections, and how can you troubleshoot related issues?
 
-![How DNS Resolution Affects Proxy IP Connections](https://i.postimg.cc/63MVjfgS/How-DNS-Resolution-Affects-Proxy-IP-Connections.png)
-
 <img src="https://i.postimg.cc/63MVjfgS/How-DNS-Resolution-Affects-Proxy-IP-Connections.png" alt="How DNS Resolution Affects Proxy IP Connections" width="1000">
 
 ## 1. What Is DNS and Why Does It Matter for Proxy Connections?
