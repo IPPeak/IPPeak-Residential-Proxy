@@ -9,7 +9,7 @@ title: Home
 Welcome to the official IPPeak developer documentation.
 
 
-IPPeak provides enterprise-grade residential proxy solutions for developers, businesses, and applications that require reliable global network access.
+[IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) provides enterprise-grade residential proxy solutions for developers, businesses, and applications that require reliable global network access.
 
 
 Our proxy infrastructure helps developers build scalable applications with flexible proxy management, multiple connection methods, and worldwide IP coverage.
@@ -157,22 +157,22 @@ Explore IPPeak technical articles, proxy guides, and industry insights.
 IPPeak proxies are designed for:
 
 
-## Data Collection
+## [Data Collection](https://www.ippeak.com/use-case/web)
 
 Collect public data with reliable residential IP connections.
 
 
-## Market Research
+## [Market Research](https://www.ippeak.com/use-case/market)
 
 Analyze global markets with location-based access.
 
 
-## Automation Workflows
+## [Automation Workflows}(https://www.ippeak.com/use-case/ai)
 
 Build scalable automation applications.
 
 
-## Application Testing
+## [Application Testing](https://www.ippeak.com/use-case/seo)
 
 Test applications across different regions and network environments.
 
