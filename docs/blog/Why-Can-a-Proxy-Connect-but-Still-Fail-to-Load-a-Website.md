@@ -10,7 +10,7 @@ When using a [proxy](https://www.ippeak.com/?utm_t=1&utm_i=147) to access a webs
 
 Therefore, troubleshooting this issue requires checking each part of the request process step by step.
 
-![Why Can a Proxy Connect but Still Fail to Load a Website](https://i.postimg.cc/L417nTMB/Why-Can-a-Proxy-Connect-but-Still-Fail-to-Load-a-Website.png)
+<img src="https://i.postimg.cc/L417nTMB/Why-Can-a-Proxy-Connect-but-Still-Fail-to-Load-a-Website.png" alt="Why Can a Proxy Connect but Still Fail to Load a Website" width="1000">
 
 ## 1. Check Whether the Target Website Is Reachable
 
