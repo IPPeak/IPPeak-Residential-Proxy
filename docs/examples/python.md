@@ -6,7 +6,7 @@ title: Python Examples
 # Python Examples
 
 
-This guide shows how to integrate IPPeak proxy services with Python applications.
+This guide shows how to integrate [IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) proxy services with Python applications.
 
 
 The examples use the Python `requests` library to create proxy connections.
