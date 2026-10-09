@@ -8,7 +8,7 @@ description: "Learn how to check IP Reputation by evaluating IP type, geolocatio
 
 IP reputation is an important factor when evaluating an IP address, especially when using proxy IPs for web requests, data collection, or network applications. However, reputation is not determined by a single indicator. Checking an IP requires looking at several factors, including its history, network type, location, ASN, and current status.
 
-![How-to-Check-IP-Reputation](https://i.postimg.cc/DwgQBX7w/How-to-Check-IP-Reputation.png)  
+<img src="https://i.postimg.cc/DwgQBX7w/How-to-Check-IP-Reputation.png" alt="How-to-Check-IP-Reputation" width="1000">
 
 ## 1. Check the IP's Reputation Status
 
