@@ -91,6 +91,6 @@ Published: September 29, 2026
 
 ### How DNS Resolution Affects Proxy IP Connections
 
-Published: September 29, 2026
+Published: October 9, 2026
 
 [Read More →](How-DNS-Resolution-Affects-Proxy-IP-Connections.html)
