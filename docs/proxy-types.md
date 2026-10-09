@@ -6,7 +6,7 @@ title: Proxy Types
 # Proxy Types
 
 
-IPPeak provides multiple proxy solutions designed for different application requirements.
+[IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) provides multiple proxy solutions designed for different application requirements.
 
 
 Each proxy type offers different connection methods, IP management options, and usage scenarios.
@@ -15,7 +15,7 @@ Each proxy type offers different connection methods, IP management options, and 
 
 ---
 
-# Residential Proxy
+# [Residential Proxy](https://www.ippeak.com/product/residential-proxies)
 
 
 Residential Proxy provides access to real residential IP addresses from global networks.
@@ -91,7 +91,7 @@ Build scalable workflows requiring multiple IP addresses.
 
 ---
 
-# Static Residential Proxy
+# [Static Residential Proxy](https://www.ippeak.com/product/isp-proxies)
 
 
 Static Residential Proxy provides dedicated residential IP resources with long-term stability.
@@ -151,7 +151,7 @@ Provide stable network access for enterprise workflows.
 
 ---
 
-# Unlimited Residential Proxy
+# [Unlimited Residential Proxy](https://www.ippeak.com/product/unlimited-proxies)
 
 
 Unlimited Residential Proxy provides high-volume residential proxy access without traffic limitations.
@@ -216,10 +216,10 @@ Choose the appropriate proxy type based on your requirements.
 
 | Requirement | Recommended Solution |
 |---|---|
-| Need rotating IPs | Residential Proxy |
-| Need stable IP address | Static Residential Proxy |
-| Need unlimited traffic | Unlimited Residential Proxy |
-| Need large-scale access | Residential Proxy |
+| Need rotating IPs | [Residential Proxy](https://www.ippeak.com/product/residential-proxies) |
+| Need stable IP address | [Static Residential Proxy](https://www.ippeak.com/product/isp-proxies) |
+| Need unlimited traffic | [Unlimited Residential Proxy](https://www.ippeak.com/product/unlimited-proxies) |
+| Need large-scale access | [Residential Proxy](https://www.ippeak.com/product/residential-proxies) |
 
 
 
