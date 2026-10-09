@@ -5,7 +5,7 @@ title: Node.js Examples
 
 # Node.js Examples
 
-This guide explains how to integrate IPPeak proxy services with Node.js applications.
+This guide explains how to integrate [IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) proxy services with Node.js applications.
 The example demonstrates how to configure proxy connections using JavaScript and common HTTP request libraries.
 
 ## Requirements
