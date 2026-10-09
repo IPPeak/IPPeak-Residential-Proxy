@@ -6,7 +6,7 @@ title: API Reference
 # API Reference
 
 
-This section explains how to integrate IPPeak proxy services into your applications.
+This section explains how to integrate [IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) proxy services into your applications.
 
 
 IPPeak provides standard proxy access methods compatible with common HTTP clients, automation tools, and custom applications.
