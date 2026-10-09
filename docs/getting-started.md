@@ -6,7 +6,7 @@ title: Getting Started
 # Getting Started
 
 
-This guide explains how to connect to IPPeak proxy services and make your first successful proxy request.
+This guide explains how to connect to [IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) proxy services and make your first successful proxy request.
 
 
 IPPeak provides residential proxy solutions with global IP coverage, multiple proxy protocols, and flexible integration options.
@@ -191,7 +191,6 @@ IPPeak supports:
 | Protocol | Supported |
 |---|---|
 | HTTP | Yes |
-| HTTPS | Yes |
 | SOCKS5 | Yes |
 
 
