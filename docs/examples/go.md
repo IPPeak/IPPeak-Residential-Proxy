@@ -5,7 +5,7 @@ title: Go Examples
 
 # Go Examples
 
-This guide explains how to integrate IPPeak proxy services with Go applications.
+This guide explains how to integrate [IPPeak](https://www.ippeak.com/?utm_t=1&utm_i=147) proxy services with Go applications.
 The example demonstrates how to configure HTTP proxy connections using Go's standard HTTP client.
 
 ## Requirements
