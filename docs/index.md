@@ -167,7 +167,7 @@ Collect public data with reliable residential IP connections.
 Analyze global markets with location-based access.
 
 
-## [Automation Workflows}(https://www.ippeak.com/use-case/ai)
+## [Automation Workflows](https://www.ippeak.com/use-case/ai)
 
 Build scalable automation applications.
 
