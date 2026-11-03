@@ -124,3 +124,9 @@ Published: October 27, 2026
 Published: October 29, 2026
 
 [Read More →](Residential-Proxy-Pricing-Explained.html)
+
+### How Can AI Agents Use Residential Proxies to Perform Web Tasks? A Guide to Working Principles and Configuration
+
+Published: November 3, 2026
+
+[Read More →](How-Can-AI-Agents-Use-Residential-Proxies-to-Perform-Web-Tasks.html)
