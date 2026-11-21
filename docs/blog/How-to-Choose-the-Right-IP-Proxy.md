@@ -29,15 +29,15 @@ When choosing a proxy type, consider whether your tasks require frequent IP chan
 
 Network quality directly affects data collection efficiency. Three key factors deserve particular attention:
 
-**1. IP Resource Quality**
+**(1) IP Resource Quality**
 
 Consider IP sources, pool size, and geographic coverage. For projects involving data collection across multiple countries and regions, check whether the provider supports precise location and ASN targeting.
 
-**2. Connection Success Rate and Response Speed**
+**(2) Connection Success Rate and Response Speed**
 
 A high connection success rate and fast response times help reduce request delays and improve the efficiency of large-scale data collection.
 
-**3. Concurrent Connection Capacity**
+**(3) Concurrent Connection Capacity**
 
 Projects that process multiple scraping tasks simultaneously require sufficient concurrent connections. Check whether the proxy service supports unlimited concurrent sessions and is compatible with your existing tools and applications.
 
@@ -55,29 +55,29 @@ These factors help businesses allocate proxy resources more efficiently and avoi
 
 IPPeak offers three types of residential proxy services to accommodate different data collection scales and connection requirements:
 
-**1. Rotating Residential Proxies: For Multi-Region Data Collection**
+**(1) Rotating Residential Proxies: For Multi-Region Data Collection**
 
 IPPeak offers Core and Premium Residential Proxy options, supporting targeting across 195+ countries and regions, ASN targeting, IP rotation, and sticky sessions. With a 99.5% connection success rate and support for HTTP and SOCKS5, these proxies are suitable for projects that require flexible IP rotation and access to public data from different regions.
 
-**2. Static Residential Proxies: For Long-Term Data Monitoring**
+**(2) Static Residential Proxies: For Long-Term Data Monitoring**
 
 IPPeak Static Residential Proxies (ISP Proxies) provide dedicated, native residential IPs with fixed IP addresses, customizable subnets, and unlimited traffic. Each IP can be retained for up to 90 days, making the service suitable for long-term monitoring and projects that require consistent IP connections.
 
-**3. Unlimited Residential Proxies: For High-Volume Automation Tasks**
+**(3) Unlimited Residential Proxies: For High-Volume Automation Tasks**
 
 IPPeak Unlimited Residential Proxies come with no traffic or IP usage limits and support customizable bandwidth, HTTP, SOCKS5, and unlimited concurrent sessions. They are suitable for automation projects with high daily traffic consumption and continuous operation requirements.
 
 ## 6. Frequently Asked Questions
 
-**1. Should I use rotating or static residential proxies for web scraping?**
+**(1) Should I use rotating or static residential proxies for web scraping?**
 
 Rotating residential proxies are suitable for tasks that require frequent IP changes and data collection across different regions. Static residential proxies are a better choice when the same IP needs to be maintained over an extended period.
 
-**2. Does having more proxy IPs always improve scraping efficiency?**
+**(2) Does having more proxy IPs always improve scraping efficiency?**
 
 Not necessarily. IP pool size is only one consideration. IP quality, connection success rate, response speed, and concurrent connection capacity should also be evaluated.
 
-**3. How can I reduce proxy costs for web scraping projects?**
+**(3) How can I reduce proxy costs for web scraping projects?**
 
 Estimate your traffic consumption, IP requirements, and project duration in advance. Then choose a suitable pricing model and allocate proxy resources according to actual usage.
 
